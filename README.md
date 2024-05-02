@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eryczh&show_icons=true&theme=tokyonight)
+<img height="195em" src="https://readme-status-beta.vercel.app/api/top-langs?username=caiotelesz&theme=algolia&show_icons=false"/>
